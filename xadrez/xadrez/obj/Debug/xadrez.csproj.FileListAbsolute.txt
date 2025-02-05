@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\xadrez\xadrez\bin\Debug\xadrez.exe.config
+C:\Users\vinic\source\repos\xadrez\xadrez\bin\Debug\xadrez.exe
+C:\Users\vinic\source\repos\xadrez\xadrez\bin\Debug\xadrez.pdb
+C:\Users\vinic\source\repos\xadrez\xadrez\obj\Debug\xadrez.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\xadrez\xadrez\obj\Debug\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\xadrez\xadrez\obj\Debug\xadrez.exe
+C:\Users\vinic\source\repos\xadrez\xadrez\obj\Debug\xadrez.pdb
